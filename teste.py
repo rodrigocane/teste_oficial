@@ -3,7 +3,7 @@
 
 
 
-print('parabéns')
-print('parabéns')
-print('parabéns')
-print('parabéns')
+print('parabens')
+print('parabens')
+print('parabens')
+print('parabens')
